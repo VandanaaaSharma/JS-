@@ -19,12 +19,17 @@
 // console.log(typeof value)
 // console.log(value)
 //****************************OPERATION***********
-let str1="Vandana"
-let str2="Vandana"
-let str3=str1+str2
-console.log(str3)
-console.log("1" + 2)
-console.log(1 + "2")
-console.log(1 + 2)
-console.log("1" + 2 + 2)
-console.log(1 + 2 + "2")
+// let str1="Vandana"
+// let str2="Vandana"
+// let str3=str1+str2
+// console.log(str3)
+// console.log("1" + 2)
+// console.log(1 + "2")
+// console.log(1 + 2)
+// console.log("1" + 2 + 2)
+// console.log(1 + 2 + "2")
+// ******* Comparision
+console.log("2">0)
+console.log(null>=0)
+console.log(null==0)
+console.log(null>0)
